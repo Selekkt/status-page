@@ -1,6 +1,6 @@
 <?php
 /*
- *  WTF: ShockBlast STATUS
+ *  WTF: ShockBlast's website STATUS page
  *  VER: 1.0.0
  *  URL: https://status.ShockBlast.net/
  *
@@ -73,8 +73,8 @@ foreach ($servers as $name => $info) {
         <meta name="description" content="Welcome to ShockBlast&#39;s home for real-time data on system performance.">
         <meta name="robots" content="index, follow">
 
-        <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootswatch/2.3.2/cosmo/bootstrap.min.css">
-        <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.min.css">
+        <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootswatch/2.3.2/cosmo/bootstrap.min.css">
+        <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.min.css">
     </head>
     <body>
 
@@ -149,6 +149,14 @@ foreach ($servers as $name => $info) {
 
             });
         </script>
+
+        <!--
+         *  WTF: ShockBlast's website STATUS page
+         *  VER: 1.0.0
+         *  URL: https://status.ShockBlast.net/
+         *
+         *  GET: https://Selekkt.dk/git/status-page
+        -->
 
     </body>
 </html>
